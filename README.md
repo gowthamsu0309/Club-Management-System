@@ -8,5 +8,7 @@ Java (Swing for the desktop UI).
 # Database: 
 MySQL (via JDBC, DriverManager).
 # PDF generation: OpenPDF.
-# Email: Brevo (formerly Sendinblue) transactional email API, called via java.net.http.HttpClient.
-# Architecture: Simple layered structure — Model / DAO (Data Access Object) / Form (Swing UI).
+# Email: 
+Brevo (formerly Sendinblue) transactional email API, called via java.net.http.HttpClient.
+# Architecture: 
+Simple layered structure — Model / DAO (Data Access Object) / Form (Swing UI).
